@@ -15,6 +15,7 @@
 
 ### Changed
 - Remove upper compatibility limit with IDE versions
+- Allow compatibility with 251.* IDE versions
 
 ## 0.3.3 - 2024-11-21
 
